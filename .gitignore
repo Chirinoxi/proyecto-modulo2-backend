@@ -15,7 +15,6 @@ local.properties
 .recommenders
 
 # Project
-.mvn
 .classpath
 
 # External tool builders
