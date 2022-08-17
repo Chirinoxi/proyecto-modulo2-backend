@@ -4,10 +4,13 @@
 Actualmente, se han implementado las funcionalidades para la entidad Producto. El diagrama de clases es el siguiente:
 
 <br>
+<br>
+
 <div align='center'>
     <img src='./Diagrama de clases.png'>
     <figcaption>Diagrama de clases aplicación</figcaption>
 </div>
+
 <br>
 
 Los **endpoints** para nuestro backend son los siguientes:
