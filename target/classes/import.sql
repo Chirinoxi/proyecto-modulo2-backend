@@ -1,0 +1,1 @@
+INSERT INTO productos (categoria, descripcion, imagen, nombre, precio, stock, codigo) VALUES ('PC','Componente de ordenador xxxxx','https://ibb.co/hYrPbFr','Fuente generica 450 W', 50000, 500, 'PR-001');
