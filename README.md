@@ -1,6 +1,6 @@
 # Backend Productos
 
-<p align='justify'>Este proyecto esta destinado a la creación de una servicio REST para realizar las 4 operacioens básicas de un crud, para posteriormente ser consumudi mediante un proyecto en Angular y generar una página web de e-commerce. Las propiedades de nuestra aplicación se encuentran en el archivo <a href="./src/main/resources/application.properties" target="__blank">application.properties</a>.</p>
+<p align='justify'>Este proyecto esta destinado a la creación de una servicio REST para realizar las 4 operaciones básicas de un CRUD (<b>C</b>reate, <b>R</b>ead, <b>U</b>pdate and <b>D</b>elete), para posteriormente ser consumudi mediante un proyecto en Angular y generar una página web de e-commerce. Las propiedades de nuestra aplicación se encuentran en el archivo <a href="./src/main/resources/application.properties" target="__blank">application.properties</a>.</p>
 Actualmente, se han implementado las funcionalidades para la entidad Producto. El diagrama de clases es el siguiente:
 
 <br>
