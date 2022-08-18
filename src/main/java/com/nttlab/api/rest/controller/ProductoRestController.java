@@ -154,7 +154,7 @@ public class ProductoRestController {
 		if (productoBuscado != null) {
 			response.put("mensaje", "¡El producto ingresado ya se encuentra registrado!");
 			response.put("producto", producto);
-			return new ResponseEntity<Map<String, Object>>(response, HttpStatus.ALREADY_REPORTED);
+			return new ResponseEntity<Map<String, Object>>(response, HttpStatus.CONFLICT);
 		}
 		response.put("mensaje", "!Producto ingresado con éxito! ");
 		response.put("producto", producto);
